@@ -7,9 +7,9 @@ void main() {
   });
   int? X = int.parse(stdin.readLineSync()!);
   int k = 0;
-  for (int i = 0; i < N.length; i++){
-    if (N[i] == X && k == 0){
-      print(i+1);
+  for (int a = 0; a < N.length; a++ ){
+    if (N[a] == X && k == 0){
+      print(a+1);
       k++;
     }
   }
