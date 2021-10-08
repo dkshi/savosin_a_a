@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad8d625d-8c44-45fb-827c-3c42ffad9325" name="Changes" comment="" />
+    <list default="true" id="ad8d625d-8c44-45fb-827c-3c42ffad9325" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW_2/level1_task1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +80,8 @@
       <workItem from="1633465465722" duration="1777000" />
       <workItem from="1633468674748" duration="5242000" />
       <workItem from="1633608946426" duration="208000" />
+      <workItem from="1633674818285" duration="95000" />
+      <workItem from="1633675160483" duration="350000" />
     </task>
     <servers />
   </component>
