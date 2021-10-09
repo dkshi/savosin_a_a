@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad8d625d-8c44-45fb-827c-3c42ffad9325" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HW_2/level1_task1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ad8d625d-8c44-45fb-827c-3c42ffad9325" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +17,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/level1_number3.dart" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/level1_number1.dart" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1z6PFZiYAdlOEnUoHO2PUntQI6R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,11 +28,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW_2" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.level1_number1.dart">
-    <configuration name="level1_number1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/level1_number1.dart" />
+  <component name="RunManager" selected="Dart Command Line App.level3_number1.dart">
+    <configuration name="level1_number2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/level1_number2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -65,11 +58,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.level1_number1.dart" />
         <item itemvalue="Dart Command Line App.level3_number1.dart" />
         <item itemvalue="Dart Command Line App.level2_number2.dart" />
         <item itemvalue="Dart Command Line App.level2_number5.dart" />
         <item itemvalue="Dart Command Line App.level1_number3.dart" />
+        <item itemvalue="Dart Command Line App.level1_number2.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -82,10 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633465463714</updated>
       <workItem from="1633465465722" duration="1777000" />
-      <workItem from="1633468674748" duration="5242000" />
-      <workItem from="1633608946426" duration="208000" />
-      <workItem from="1633674818285" duration="95000" />
-      <workItem from="1633675160483" duration="960000" />
+      <workItem from="1633468674748" duration="5842000" />
+      <workItem from="1633797883923" duration="927000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,11 @@ void main(){
   print(SumOfDigits(s));
 }
 
-int SumOfDigits(String s){
-  return (int.parse(s[0]) + int.parse(s[1]) + int.parse(s[2]));
+int SumOfDigits(n){
+  String s = n.toString();
+  int sum = 0;
+  for (int i = 0; i < s.length; i++){
+    sum += int.parse(s[i]);
+  }
+  return sum;
 }
