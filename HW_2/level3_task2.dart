@@ -9,6 +9,7 @@ void main() {
   String s = stdin.readLineSync()!;
   int K = int.parse(stdin.readLineSync()!);
   String s0 = "";
+  if (s.length > 4) K++;
   for (int i = 0; i < s.length; i++) {
     int ind = a.indexOf(s[i]);
     if (ind - K >= 0)
